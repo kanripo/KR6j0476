@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:17.578280
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:16
 #+TITLE: 北方毘沙門天王隨軍護法真言
 #+PROPERTY: CBETA_ID T21n1248
 #+PROPERTY: ID KR6j0476
