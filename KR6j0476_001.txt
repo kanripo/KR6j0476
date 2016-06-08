@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:17.578280
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:16
 #+TITLE: 北方毘沙門天王隨軍護法真言
 #+PROPERTY: CBETA_ID T21n1248
 #+PROPERTY: ID KR6j0476
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1248
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0476_T_000-0225b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0476_T_001-0225b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1248¶
-
- 北方毘沙門天王隨軍護法真言¶
+No. 1248¶
+北方毘沙門天王隨軍護法真言¶
 ¶
 特進試鴻臚卿大興善寺三藏沙門¶
 大廣智不空別行翻譯不入正經¶
@@ -56,8 +55,7 @@ No.1248¶
 
 又法若行者欲得喝¶
 囉闍愛敬者。取赤小豆一顆呪一遍。投火中¶
-燒。如是滿一百八遍。其喝囉闍即遣人喚¶
-來極忽。
+燒。如是滿一百八遍。其喝囉闍即遣人喚來極忽。
 
 又法若欲得大官人愛敬者。取¶
 白芥子一顆。一呪投火中燒滿一百八遍。其¶
